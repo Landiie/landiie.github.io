@@ -6,7 +6,7 @@ Title: Blog
 <div style="margin: 2rem;">
     <h1>Recent Posts</h1>
     <div class="blog-posts-list">
-        {%- for post in collections.blog -%}
+        {%- for post in collections.blog | reverse -%}
             <article class="blog-post-card">
                 <h3 class="blog-post-card-header">{{ post.data.title}}</h3>
                 <span class="d-flex align-items-center">
