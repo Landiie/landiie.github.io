@@ -1,0 +1,19 @@
+{
+  "hidden":true,
+  "layout": "product.njk",
+  "date": "2023-05-15",
+  "title": "Fixer Upper",
+  "description": "Fixes broken features of SAMMI while simultaneously improving upon them.",
+  "version": "1.0.0",
+  "versionSummaryHeader": "Initial Release",
+  "versionSummaryBody": "Initial Release",
+  "tags": ["product", "sammiExtension", "utility"],
+  "price": "FREE",
+  "permalink": "/shop/sammi-extensions/fixer-upper/",
+  "image": "/assets/images/sammi-extensions/fixer-upper/cover.png",
+  "imageAlt": "Product icon for Fixer Upper",
+  "authors": ["Landie"],
+  "shopLabels": ["Free", "Utility"],
+  "downloadLink": "https://landie.land/shop/sammi-extensions/fixer-upper",
+  "sammiImage": "https://landie.land/assets/sammi-extensions/fixer-upper/cover_bridge.png"
+}
