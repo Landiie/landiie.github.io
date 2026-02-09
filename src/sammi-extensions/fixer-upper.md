@@ -1,10 +1,9 @@
 ---json
 {
-  "hidden":true,
   "layout": "product.njk",
   "date": "2023-05-15",
   "title": "Fixer Upper",
-  "description": "Fixes broken features of SAMMI while simultaneously improving upon them.",
+  "description": "Improve/Override (broken) SAMMI features for a stable experience.",
   "version": "1.0.0",
   "versionSummaryHeader": "Initial Release",
   "versionSummaryBody": "Initial Release",
