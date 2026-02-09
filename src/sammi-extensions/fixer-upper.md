@@ -1,7 +1,7 @@
 ---json
 {
   "layout": "product.njk",
-  "date": "2023-05-15",
+  "date": "2026-02-09",
   "title": "Fixer Upper",
   "description": "Improve/Override (broken) SAMMI features for a stable experience.",
   "version": "1.0.0",
