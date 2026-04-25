@@ -9,6 +9,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/pfp.png");
   eleventyConfig.addPassthroughCopy("./src/ref.png");
+  eleventyConfig.addPassthroughCopy("./src/mods/*");
   eleventyConfig.addPassthroughCopy("./src/signature.png");
   eleventyConfig.addPassthroughCopy("./src/papaparse.min.js");
   eleventyConfig.addPassthroughCopy("./src/assets");
